@@ -1,0 +1,24 @@
+{
+  "name": "todolistapi",
+  "version": "1.0.0",
+  "description": "This is a todoListApi made with NodeJS and MongoDB. This was created through a tutorial found at: https://www.codementor.io/olatundegaruba/nodejs-restful-apis-in-10-minutes-q0sgsfhbd",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FanciestW/todoListApi.git"
+  },
+  "keywords": [
+    "RESTful",
+    "API",
+    "NodeJS"
+  ],
+  "author": "William Lin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FanciestW/todoListApi/issues"
+  },
+  "homepage": "https://github.com/FanciestW/todoListApi#readme"
+}
