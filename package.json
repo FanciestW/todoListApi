@@ -20,5 +20,11 @@
   "bugs": {
     "url": "https://github.com/FanciestW/todoListApi/issues"
   },
-  "homepage": "https://github.com/FanciestW/todoListApi#readme"
+  "homepage": "https://github.com/FanciestW/todoListApi#readme",
+  "devDependencies": {
+    "nodemon": "^1.17.5"
+  },
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
